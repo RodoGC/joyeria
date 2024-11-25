@@ -3,10 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-<title>Login Y Registro - Rodolfogc</title> 
+  
+<title> Login Y Registro - Rodolfogc</title> 
 <Link rel="stylesheet" href="assets/css/estilos.css">
 
-</head> < body>
+</head> <body>
 
 < main>
 
