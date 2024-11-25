@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-<title>Login Y Registro - MagtimusPro</title> 
+<title>Login Y Registro - Rodolfogc</title> 
 <Link rel="stylesheet" href="assets/css/estilos.css">
 
 </head> < body>
@@ -12,7 +12,7 @@
 
   <div class="contenedor __todo">
 
-   < div class="caja__trasera">
+   <div class="caja__trasera">
    <div class="caja__trasera-login">
    <h3>¿Ya tienes una cuenta?< /h3>
    <p>Inicia sesión para entrar en la página</p>
